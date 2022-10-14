@@ -3,7 +3,7 @@
 /**
  * main - returns single integer number from 0-10
  * Return: return 0 if successful
- */
+ **/
 
 int main(void)
 {

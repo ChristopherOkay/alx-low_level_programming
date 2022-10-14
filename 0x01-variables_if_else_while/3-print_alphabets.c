@@ -4,7 +4,7 @@
 /**
  * main - returns alphabet in both loweer and upper case
  * Return: returns 0 (successful)
- */
+ **/
 
 int main(void)
 {
