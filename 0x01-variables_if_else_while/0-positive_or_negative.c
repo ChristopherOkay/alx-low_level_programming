@@ -8,10 +8,11 @@
  *  * main - main fuction generate a random number
  *   * Return: return 0(successful)
  **/
-int main (void)
+int main(void)
 {
 	int n;
 	srand(time(0));
+
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
 	{
