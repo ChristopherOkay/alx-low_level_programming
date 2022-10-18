@@ -2,7 +2,7 @@
 /**
  * print_alphabet_x10 - prints the alphabets in lower case 10 tims
  * Return: returns 0 if successful
- */
+ **/
 
 void  print_alphabet_x10(void)
 {
